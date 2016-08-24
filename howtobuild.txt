@@ -3,7 +3,7 @@
 #
 # cd to directory where module source tree is located
 #
-# puppet module build ecx-puppet
+# puppet module build catalogic-puppet
 #
 #
 
@@ -14,7 +14,7 @@
 # For example
 #
 #
-# puppet module install ecx-puppet/pkg/ecx-puppet-0.1.0.tar.gz
+# puppet module install ecx-puppet/pkg/catalogic-puppet-0.1.0.tar.gz
 #
 #
 #

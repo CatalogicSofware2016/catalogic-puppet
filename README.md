@@ -1,4 +1,4 @@
-# ecx-puppet
+# catalogic-puppet
 
 #### Table of Contents
 
