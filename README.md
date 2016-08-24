@@ -43,7 +43,7 @@ Catalogic ECX 2.3 or greater
 To install module
 
 ~~~
-puppet module install catalogic-ecx
+puppet module install catalogic-puppet
 ~~~
 
 ## Usage
