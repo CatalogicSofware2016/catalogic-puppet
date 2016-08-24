@@ -1,6 +1,6 @@
 {
   "name": "catalogic-puppet",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Catalogic Software",
   "summary": "This module provides the ability to manage the ECX Copy Data Management Platform",
   "license": "Apache-2.0",
