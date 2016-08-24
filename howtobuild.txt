@@ -1,0 +1,20 @@
+
+
+#
+# cd to directory where module source tree is located
+#
+# puppet module build ecx-puppet
+#
+#
+
+
+#
+# To install module from tar file
+#
+# For example
+#
+#
+# puppet module install ecx-puppet/pkg/ecx-puppet-0.1.0.tar.gz
+#
+#
+#
